@@ -1,0 +1,4 @@
+Lenevo: Lenovo
+Sorny: Sony
+Sansung: Samsung
+Adibas: Adidas
